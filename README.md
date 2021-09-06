@@ -1,2 +1,2 @@
-# https://meupczao.github.io/upstore/
+# https://meupczao.github.io/upstore
 HTML
