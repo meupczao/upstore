@@ -30,7 +30,7 @@ html {
     font-family: 'Sedgwick Ave Display', cursive;
     color: #000000; text-shadow:rgb(250, 249, 249) 6px -3px, rgb(245, 237, 237) 4px -2px, rgb(250, 249, 249) -3px 2px, rgb(245, 245, 245) -2px -2px;
     text-align: center 100 px;
-    font-size: 90px;
+    font-size: 100px;
     
 
     
@@ -38,8 +38,9 @@ html {
 }
 
 .h3 {
-  font-family: 'Sedgwick Ave Display', cursive;
+font-family: 'Sedgwick Ave Display', cursive;
 font-family: 'ZCOOL KuaiLe', cursive;
+color: #000000; text-shadow:rgb(250, 249, 249) 1px -1px;
 font-size: 25px;
 }
 
@@ -231,7 +232,6 @@ body{
     /* :nth pseudo classe para selecionar apenas as divs filhas pares (even)*/
     .imoveis div:nth-child(even){
         margin-left: 20px;
-      
     }
 
 }
