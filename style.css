@@ -231,6 +231,7 @@ body{
     /* :nth pseudo classe para selecionar apenas as divs filhas pares (even)*/
     .imoveis div:nth-child(even){
         margin-left: 20px;
+      
     }
 
 }
